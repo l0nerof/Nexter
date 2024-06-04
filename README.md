@@ -4,4 +4,4 @@
 - BEM
 - HTML
 - SASS
-- GRID
+- Grid
